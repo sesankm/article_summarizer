@@ -1,6 +1,7 @@
 # article_summarizer
-* scrape news articles with BeautifulSoup
-* summarize articles with spaCy
+* a tool which finds latest news about companies and summarizes articles
+* scraped news articles from reuters with BeautifulSoup
+* summarized articles with spaCy
 * <strong>Python Version: </strong>3.8
 * How to run:
   * takes the following command lines arguments 
